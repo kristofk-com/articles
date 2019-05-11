@@ -1,5 +1,5 @@
 ---
-title: Book review: The Effective Executive
+title: "Book review: The Effective Executive"
 date: 2019-05-11
 ---
 # The Effective Executive
