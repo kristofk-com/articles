@@ -1,5 +1,7 @@
 ---
+layout: article
 title: A new beginning
+tags: Generic
 date: 2019-02-03
 ---
 

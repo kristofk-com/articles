@@ -1,9 +1,12 @@
 ---
+layout: article
 title: Response to Stack Overflow being unwelcoming
+tags: Generic
 article_header:
   type: cover
   image:
     src: https://res.cloudinary.com/kristofk-com/image/upload/v1565710414/kristofk-com/posts/2018-05-24-Response-to-Stack-Overflow-being-unwelcoming/answer-to-stack-overflow-being-unfriendly-thumbnail-com.png
+cover: https://res.cloudinary.com/kristofk-com/image/upload/v1565710414/kristofk-com/posts/2018-05-24-Response-to-Stack-Overflow-being-unwelcoming/answer-to-stack-overflow-being-unfriendly-thumbnail-com.png
 ---
 
 Stack Overflow not that long ago released a [blog post](https://stackoverflow.blog/2018/04/26/stack-overflow-isnt-very-welcoming-its-time-for-that-to-change/) about how Stack Overflow isn’t welcoming and that they mean to change that. At the end of the post, they are asking for feedback from users. This is my feedback and response to that post.

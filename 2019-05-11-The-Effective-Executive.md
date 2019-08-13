@@ -1,5 +1,7 @@
 ---
+layout: article
 title: "Book review: The Effective Executive"
+tags: Books
 date: 2019-05-11
 ---
 # The Effective Executive
