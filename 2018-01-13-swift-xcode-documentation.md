@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Inline Documentation & Markdown in Xcode
-tags: Development/Practice
+tags: SwiftDevelopment
 article_header:
   type: cover
   image:

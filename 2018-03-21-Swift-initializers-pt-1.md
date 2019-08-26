@@ -1,7 +1,7 @@
 ---
 layout: article
 title: struct init – Swift initializers pt. 1
-tags: Development/Practice
+tags: SwiftDevelopment
 article_header:
   type: cover
   image:

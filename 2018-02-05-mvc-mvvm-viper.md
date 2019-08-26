@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Architectural patterns, MVC, MVVM… What is the hype all about?
-tags: Development/Theory
+tags: SwiftDevelopment
 article_header:
   type: cover
   image:

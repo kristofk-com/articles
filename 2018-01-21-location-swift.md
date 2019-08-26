@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Current location of iOS device in Swift
-tags: Development/Practice
+tags: SwiftDevelopment
 article_header:
   type: cover
   image:

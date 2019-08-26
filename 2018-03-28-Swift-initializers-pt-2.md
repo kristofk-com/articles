@@ -1,7 +1,7 @@
 ---
 layout: article
 title: class init – Swift initializers pt. 2
-tags: Development/Practice
+tags: SwiftDevelopment
 article_header:
   type: cover
   image:

@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Lazy Stored Property – DevTip
-tags: Development/Practice
+tags: SwiftDevelopment
 article_header:
   type: cover
   image:

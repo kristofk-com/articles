@@ -1,7 +1,7 @@
 ---
 layout: article
 title: An exhaustive guide to Static keyword AKA Type methods in Swift
-tags: Development/Practice
+tags: SwiftDevelopment
 article_header:
   type: cover
   image:
