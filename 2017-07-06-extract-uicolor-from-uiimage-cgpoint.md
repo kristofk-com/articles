@@ -33,9 +33,9 @@ As you can see this is an extension, which means that you can use the function a
 
 1.  You need to import UIKit
 
-		```
-    import UIKit
-		```
+	```
+  import UIKit
+	```
 
 2.  Add an image to the Resourches folder  
 
@@ -43,21 +43,21 @@ As you can see this is an extension, which means that you can use the function a
 
 3.  Create an instance of the UIImage class
 
-		```
-    let image = UIImage(named: "app-icon.png")
-		```
+	```
+  let image = UIImage(named: "app-icon.png")
+	```
 
 4.  Create a point with the CGPoint class
 
-		```
-    let point = CGPoint(x: 768, y: 384)
-		```
+	```
+  let point = CGPoint(x: 768, y: 384)
+	```
 
 5.  Call the function on the instance
 
-		```
-    let color = image?.getPixelColor(pos: point)
-		```
+	```
+  let color = image?.getPixelColor(pos: point)
+	```
 
     This will return the R, G, B, and A values of the UIImage.
 
