@@ -75,7 +75,7 @@ let instance = SomeClass()
 instance.addOneMoreFibonacciNumber()
 ```
 
-If you’re like me and you like compactness when it doesn’t compromise readability then you can move all the code that is defined in the initialization method into an [**auto-executing closure**](https://old.kristofk.com//swift-4-closure-expression-guide/).
+If you’re like me and you like compactness when it doesn’t compromise readability then you can move all the code that is defined in the initialization method into an [**auto-executing closure**](https://kristofk.com/posts/swift4-closure-expressions).
 
 ```
 class SomeClass {

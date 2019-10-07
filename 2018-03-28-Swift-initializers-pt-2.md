@@ -9,7 +9,7 @@ article_header:
 cover: https://res.cloudinary.com/kristofk-com/image/upload/v1565861982/kristofk-com/posts/2018-03-28-class-init%E2%80%93Swift-initializers-pt-2/init-2-thumbanil-com-min.png
 ---
 
-This is part 2 of Swift initializers. [You can find part 1 here](https://old.kristofk.com//swift-initializers-1/). This post is going to be an exhaustive guide to initializers for Classes in Swift.
+This is part 2 of Swift initializers. [You can find part 1 here](https://kristofk.com/posts/Swift-initializers-pt-1). This post is going to be an exhaustive guide to initializers for Classes in Swift.
 
 I created a diagram about all the topics I am going to discuss here.
 

@@ -61,7 +61,7 @@ import CoreLocation
 let locationManager = CLLocationManager()
 ```
 
-3.  Set up the [delegate](https://old.kristofk.com//delegation-swift/) and request access to location  
+3.  Set up the [delegate](https://kristofk.com/posts/delegation-swift) and request access to location  
     Insert the following code into the `viewDidLoad()` function – this is going to show an error but you can disregard it for now.
 
 ```
@@ -69,7 +69,7 @@ locationManager.delegate = self
 locationManager.requestWhenInUseAuthorization()
 ```
 
-4.  Set up the [delegate](https://old.kristofk.com//delegation-swift/) functions that are going to be called when we request the location  
+4.  Set up the [delegate](https://kristofk.com/posts/delegation-swift/) functions that are going to be called when we request the location  
     The 2 functions that are going to be called when we request the location are `locationManager(_:didUpdateLocations:)` and `locationManager(_:didFailWithError:)`. The 1st one is called if the location can be determined successful otherwise the didFailWithError is going to be called. I like to set up functions like these separately in extensions so let’s do that. Insert the following code in an extension under the ViewController class.
 
 		```

@@ -172,4 +172,4 @@ That is it for this post. Leave your comments, questions and ideas for future po
 
 Further reading:
 
-GitHub is great for prototyping too. To read more and get some practice with GitHub and prototyping in Xcode read [USING FRAMEWORKS IN PLAYGROUNDS (XCODE 9)](https://old.kristofk.com//xcode-9-playground-frameworks/)
+GitHub is great for prototyping too. To read more and get some practice with GitHub and prototyping in Xcode read [USING FRAMEWORKS IN PLAYGROUNDS (XCODE 9)](https://kristofk.com/posts/xcode-9-playground-frameworks)

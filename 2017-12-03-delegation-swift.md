@@ -180,7 +180,7 @@ func setup() {
   }
 ```
 
-Now, this is pretty bad. This looks like caveman debugging. If you want to change the print statement you have to go back to the class, look for the function and then edit the print statement. Not to mention, that if this was part of a [framework or library](https://old.kristofk.com//xcode-9-playground-frameworks/) then the poor fellow using the framework would have to go into your code to edit the printouts.  
+Now, this is pretty bad. This looks like caveman debugging. If you want to change the print statement you have to go back to the class, look for the function and then edit the print statement. Not to mention, that if this was part of a [framework or library](https://kristofk.com/posts/xcode-9-playground-frameworks) then the poor fellow using the framework would have to go into your code to edit the printouts.  
 One more drawback of this approach is that now is that no other objects have access to this data. What if you want to stream the game. Then you need to write the streaming class inside this one or call the streaming methods next to the print statements. Just for fun lets suppose that you have an antiCheating class that would also have to be called each time.  
 As you can see this might get out of control real quick.
 

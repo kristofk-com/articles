@@ -56,4 +56,4 @@ This is a list of all sorts of useful tools for iOS Developers. It lists both UI
 
 ## An exhaustive guide to the Static keyword AKA Type methods in Swift SwiftCore
 
-This week I made a video about the static keyword in Swift. It discusses all the use cases of it. This is part of my SwiftCore series in which I take a Swift concept and I explain it. You can find this content on my [website](https://old.kristofk.com//static-keyword-swift/) and on [youtube](https://www.youtube.com/channel/UC60VWleORVQ5rBEt85oqErQ).
+This week I made a video about the static keyword in Swift. It discusses all the use cases of it. This is part of my SwiftCore series in which I take a Swift concept and I explain it. You can find this content on my [website](https://kristofk.com/posts/static-keyword-swift) and on [youtube](https://www.youtube.com/channel/UC60VWleORVQ5rBEt85oqErQ).

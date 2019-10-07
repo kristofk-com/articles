@@ -194,4 +194,4 @@ An older but still relevant article on the same topic: [Swift Documentation – 
 
 Apple’s Official Documentation on the topic: [Apple Doc](https://developer.apple.com/library/content/documentation/Xcode/Reference/xcode_markup_formatting_ref/index.html#//apple_ref/doc/uid/TP40016497-CH2-SW1)
 
-Next up, learn how to share your nicely documented code with others by learning about how to use [Xcode and GitHub](https://old.kristofk.com//xcode-9-github/).
+Next up, learn how to share your nicely documented code with others by learning about how to use [Xcode and GitHub](https://kristofk.com/posts/xcode-9-github).

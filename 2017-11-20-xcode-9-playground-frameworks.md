@@ -14,7 +14,7 @@ In this post, I’m going to show off how to use 3rd party libraries and framewo
 Why would you use a framework in a playground? Glad you ask, you use Playground to prototype and test features quickly as it runs instantly… surprise, surprise. The framework part comes in handy when the sad feature is dependent on an external framework. The inspiration comes from trying to set up JTAppleCalendar in my project and I needed to constantly run the project to see the changes every time. Playground is a big time saver.
 
 I am going to use the [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar) framework/library for this project.  
-You could also use the Facebook SDK of which I wrote a [blog post](https://old.kristofk.com//facebook-swift-sdk-updated-to-swift-4/).
+You could also use the Facebook SDK of which I wrote a [blog post](https://kristofk.com/posts/facebook-swift-sdk-updated-to-swift-4).
 
 ## Setting up the Xcode project
 
