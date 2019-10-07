@@ -96,6 +96,6 @@ In a nutshell, your summary should do the following:
 
 The examples I used for this blog post were from the book: Cracking TOEFL iBT 2017 – Princeton Review. I highly recommend you check out the book if you are preparing for TOEFL as it will explain everything in much more detail.
 
-If you fond this post useful, I highly recommend you check out my [Toefl iBT Reading Guide](http://www.kristofk.com/toefl-ibt-reading-guide/)!
+If you fond this post useful, I highly recommend you check out my [Toefl iBT Reading Guide](https://kristofk.com/posts/toefl-ibt-reading-guide)!
 
 Leave your suggestions and comments down below!
